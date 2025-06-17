@@ -103,7 +103,7 @@ Project Roles and Responsibilities
 
 UI Component Patterns
 
-Planned Components
+📅 Planned Components
 
 * Navbar : Logo, Search bar, User navigation, Responsive menu
 * Property Card : Property image, Basic details (price, location, rating), Favorite button, Responsive layout
